@@ -1,6 +1,5 @@
-###Aufgabenergebnis
+### Aufgabenergebnis
 ---
-
 
 ### Eingesetzte Technologien und Frameworks
 
