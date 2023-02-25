@@ -1,32 +1,43 @@
-### Aufgabenergebnis
----
+# Aufgabenergebnis
 
-### Eingesetzte Technologien und Frameworks
+## Eingesetzte Technologien / Frameworks
 
-1. xx
-2. xx
+Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
 
-Aufgrunddessen das, ..., habe ich **_Text_** genutzt
+- JavaScript / jQuery
+- PHP / Symfony
+- ...
 
----
+Ich habe mich für jQuery entschieden, weil ...
 
-### Eingesetzte 3rd Party Libraries
+## Eingesetzte 3rd Party Libraries
 
-Library | Grund
+Ich setze in meinem Projekt die folgenden 3rd Party Libraries ein: (falls keine, Tabelle entfernen und begründen warum)
+
+Name | Begründung
 --- | ---
-[Library 1](https://momentjs.com/) | Grund 1
-[Library 1](https://getbootstrap.com/) | Grund 2
+[moment.js](https://momentjs.com/) | Zur Berechnung von Datumswerten und Umwandlung von Formaten.
+[Bootstrap](https://getbootstrap.com/) | Einfaches RWD Framework zur Gestaltung des Frontends
+
+## Installation / Ausführen des Projektes
+
+Beschreibe, wie wir uns das Projekt lokal anschauen können.
+
+Zum Beispiel:
 
 ---
 
-### Installation
-Beschreibung folgt...
+Folgende Komponenten müssen lokal installiert sein:
 
-1. Komponente 1
-2. Komponente 2
+- [nodejs](https://nodejs.org/en/) v13.2.0
+- [.NET Core](https://dotnet.microsoft.com/download) v3.1
+
+Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-
+$ git clone <linktorepository> udg-probeaufgabe
+$ cd udg-probeaufgabe
+$ npm install
+$ npm run start
 ```
-
-
+---
