@@ -15,7 +15,8 @@ Ich habe folgende 3rd Party Libraries in meinem Projekt eingesetzt:
 Name | Begründung
 --- | ---
 [Java.io](https://docs.oracle.com/javase/7/docs/api/java/io/package-summary.html) | Java.io dient, vor allem, dem Verarbeiten vom Eingabe- und Ausgabeströmen des Programms. Aufgrunddessen das zwei wichtige Hauptbestandteile des Projektes aus dem Import- und dem Export der CSV-Daten bestehen, war diese 3rd Party Library nötig, um beispielsweise mit dem BufferedReader jegliche Daten aus der Datei, Zeile für Zeile, auszulesen, damit der FileReader diese in die Tabelle schreiben kann. Das selbe gilt für den Export, während der BufferedWriter die Daten aus der Tabelle ausliest, speichert der FileWriter wiederrum diese Daten in einer Datei.
-[Bootstrap](https://getbootstrap.com/) | Einfaches RWD Framework zur Gestaltung des Frontends
+[Java.awt](https://docs.oracle.com/javase/7/docs/api/java/awt/package-summary.html) | Java.awt stellt als Bibliothek die Kommunikationsschnittstelle zwischen dem Benutzer und dem Program dar. Mithilfe der Methoden ActionEvent und ActionListener, die in dieser Bibliothek enthalten sind, ist es möglich, das der Benutzer beispielsweise mit erstellten JButtons arbeiten.
+[Java.swing]() | Java.swing ist die verbesserte Version von Java.awt, weshalb diese es ermöglichst, das die Elemente der Benutzeroberfläche eine bessere Qualität sowie eine höhere Funktionalität abgeben. Daher war diese 3rd Party Bibliothek nötig, um zum einen innerhalb der Tabelle, durch das Panel JScrollPanel, scrollen zu können, zum anderen ist es dem Benutzer, durch den JFileChooser dieser Bibliothek, möglich, innerhalb seines Windows Explorers zu interagieren. Dies fördert vor allem ein anprechendes Design, da man nicht mehr innerhalb des Codes einen Pfad eingeben muss, sondern stattdessen jegliche Datei einfach am gespeicherten Ort finden kann.
 
 ## Installation / Ausführen des Projektes
 
