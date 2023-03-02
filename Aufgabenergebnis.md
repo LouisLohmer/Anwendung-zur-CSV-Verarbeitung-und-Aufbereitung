@@ -2,13 +2,11 @@
 
 ## Eingesetzte Technologien / Frameworks
 
-Folgende Technologien / Frameworks setze ich in meinem Projekt ein:
+Folgende Technologien und Frameworks habe ich in meinem Projekt eingesetzt:
 
-- JavaScript / jQuery
-- PHP / Symfony
-- ...
+- Java / JavaFX
 
-Ich habe mich für jQuery entschieden, weil ...
+Ich habe mich für Java entschieden, weil ich mit dieser Programmiersprache die meiste Erfahrung gesammelt habe und somit diese auch am besten, im Vergleich zu den anderen Technologien, behersche. Zudem werden mir innerhalb der IDE Eclipse, welche ich zum Programmieren der Aufgabe genutzt habe, jegliche Java-Methoden von jeglichen Java-Bibliotheken sowie verschieden Werkzeuge vom dortigen Marketplace zur Verfügung gestellt, somit ist meine Arbeitsweise in Java effizienter und einfacher.
 
 ## Eingesetzte 3rd Party Libraries
 
