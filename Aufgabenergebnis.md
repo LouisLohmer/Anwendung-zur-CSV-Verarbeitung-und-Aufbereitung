@@ -10,7 +10,7 @@ Ich habe mich für Java entschieden, weil ich mit dieser Programmiersprache die 
 
 ## Eingesetzte 3rd Party Libraries
 
-Ich habe folgende 3rd Party Libraries in meinem Projekt eingesetzt:
+Ich habe keine 3rd Party Libraries in meinem Projekt genutzt, da bestimmte Libraries, wie zum Beispiel Java.io, Java.awt, Java.swing und JavaFX, von Oracle selbst mit java ausgeliefert werden und somit ein Gesamtpaket bieten, mit welchem sich die Probeaufgabe gut bearbeiten und lösen lässt.
 
 Name | Begründung
 --- | ---
