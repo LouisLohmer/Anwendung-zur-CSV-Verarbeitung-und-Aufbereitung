@@ -27,17 +27,9 @@ Zum Beispiel:
 
 ---
 
-Folgende Komponenten müssen lokal installiert sein:
+Folgende Komponenten müssen in Eclipse installiert und importiert sein:
 
-- [nodejs](https://nodejs.org/en/) v13.2.0
-- [.NET Core](https://dotnet.microsoft.com/download) v3.1
+- [Window Builder Current](https://www.eclipse.org/windowbuilder/) v1.11.0
+- [JavaFX](https://gluonhq.com/products/javafx/) v19.0.2.1
 
-Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
-
-```console
-$ git clone <linktorepository> udg-probeaufgabe
-$ cd udg-probeaufgabe
-$ npm install
-$ npm run start
-```
 ---
