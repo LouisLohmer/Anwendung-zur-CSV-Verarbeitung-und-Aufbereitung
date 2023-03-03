@@ -19,11 +19,22 @@ Name | Begründung
 [Java.swing]() | Java.swing ist die verbesserte Version von Java.awt, weshalb diese es ermöglichst, das die Elemente der Benutzeroberfläche eine bessere Qualität sowie eine höhere Funktionalität abgeben. Daher war diese 3rd Party Bibliothek nötig, um zum einen innerhalb der Tabelle, durch das Panel JScrollPanel, scrollen zu können, zum anderen ist es dem Benutzer, durch den JFileChooser dieser Bibliothek, möglich, innerhalb seines Windows Explorers zu interagieren. Dies fördert vor allem ein anprechendes Design, da man nicht mehr innerhalb des Codes einen Pfad eingeben muss, sondern stattdessen jegliche Datei einfach am gespeicherten Ort finden kann.
 [JavaFX](https://openjfx.io/) | Mit JavaFX können hauptsächlich graphische Benutzeroberflächen erstellt werden, ähnlich wie mit Java.awt und Java.swing. Allerdings bietet JavaFX eine modernere und multimediale Lösung, weshalb es keine Standartlösung für graphische Benutzeroberflächen ist. Mithilfe von JavaFX wurde das, in die Benutzeroberfläche integrierte, Tortendiagram erstellt.
 
-## Installation / Ausführen des Projektes
+## Importieren und Ausführen des Projektes
 
-Beschreibe, wie wir uns das Projekt lokal anschauen können.
+Wie man ein Projekt in Eclipse importiert:
 
-Zum Beispiel:
+1. Eclipse öffnen
+2. Klicke auf **File* **>** **Open Projects form File System**
+3. Füge den Dateipfade des Projektes unter **Import source** ein und klicke auf **Finish**
+4. Nun wird das importierte Projekt links im Package Explorer unter dem Namen **ProjectCsvVerarbeitung** angezeigt
+
+Wie man ein Projekt in Eclipse ausführt:
+1. **Links** neben dem Namen des Projektes befindet sich ein **Pfeil**, mit welchen man dieses Projekt und dessen einzelne Elemente ausfährt
+2. Klicke auf den Pfeil unter **ProjectCsvVerarbeitung** **>** **src** **>** **pkgProjectCsvVerarbeitung**
+3. Nun werden alle Java-Dateien angezeig, die sich im Projekt befinden
+4. Öffne AnwendungGUI.java per Doppelklick und führe es mit dem grünen, runden Knopf neben dem Käfersymbol aus
+
+![Eclipse - Run Button](https://i.stack.imgur.com/z72yJ.png/)
 
 ---
 
