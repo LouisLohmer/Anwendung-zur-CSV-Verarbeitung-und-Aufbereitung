@@ -66,7 +66,7 @@ Wie man JavaFX in Eclipse importiert:
 3. Klicke aud **Properties**
 4. Unter dem **Java Build Path** im Menü links, sieht man nun die Libraries
 5. Klicke auf **Add Library**, wähle **User Library** aus und klicke auf **Next**
-6. Klicke auf **User Libraries** und erstelle eine neue Bibliothek, indem man aud **New** klickt
+6. Klicke **User Libraries** und erstelle eine neue Bibliothek, indem man aud **New** klickt
 7. Gebe der Bibliothek einen Namen
 8. Klicke nun auf **Add External JARs**  und wähle im Windows Explorer unter **javafx-sdk-19.0.2.1** **>**  **lib** alle JAR-Dateien aus
 9. Füge alle JAR-Dateien des **JavaFX SDKs** in die neue Bibliothek ein, indem man im Windows Explorer auf **Öffnen** Klickt
