@@ -39,7 +39,7 @@ Wie man ein Projekt in Eclipse ausführt:
 1. **Links** neben dem Namen des Projektes befindet sich ein **Pfeil**, mit welchen man dieses Projekt und dessen einzelne Elemente ausfährt
 2. Klicke auf den Pfeil unter **ProjectCsvVerarbeitung** **>** **src** **>** **pkgProjectCsvVerarbeitung**
 3. Nun werden alle Java-Dateien angezeigt, die sich im Projekt befinden
-4. Öffne AnwendungGUI.java per Doppelklick und führe es mit dem grünen, runden Knopf neben dem Käfersymbol aus
+4. Öffne AnwendungGUI.java per Doppelklick und führe es mit dem ersten grünen, runden Knopf neben dem Käfersymbol aus
 
 ![Eclipse - Run Button](https://i.stack.imgur.com/z72yJ.png/)
 
