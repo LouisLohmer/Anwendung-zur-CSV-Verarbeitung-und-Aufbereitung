@@ -14,7 +14,7 @@ Ich habe mich für Java entschieden, weil ich mit dieser Programmiersprache die 
 
 Ich habe keine 3rd Party Libraries in meinem Projekt genutzt, da bestimmte Libraries, wie zum Beispiel Java.io, Java.awt, Java.swing und JavaFX, von Oracle selbst mit java ausgeliefert werden und somit ein Gesamtpaket bieten, mit welchem sich die Probeaufgabe gut bearbeiten und lösen lässt. 
 
-Innerhalb der Tabelle habe ich alle java-Bibliotheken, die für diese Probeaufgabe genutzt wurden, erläutert. Somit kann man nachvollziehen, was ich mit dem genannten Gesamtpaket meine.
+Innerhalb der Tabelle habe ich alle java-Bibliotheken, die für diese Probeaufgabe genutzt wurden, erläutert. Somit kann man nachvollziehen, was mit dem oben genannten Gesamtpaket gemeint ist.
 
 ### Eingesetzte java Libraries
 
