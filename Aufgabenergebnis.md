@@ -49,6 +49,28 @@ Wie man ein Projekt in Eclipse ausführt:
 Folgende Komponenten müssen in Eclipse installiert und importiert sein:
 
 - [Window Builder Current](https://www.eclipse.org/windowbuilder/) v1.11.0
+
+Wie man Window Builder Current in Eclipse installiert:
+
+1. Eclipse öffnen
+2. Klicke auf **Eclipse Marketplace**
+3. Tippe in die Suchleiste **"Window Builder"** ein
+4. Klicke bei **Window Builder Current** auf **Install** und folge den Schritten 
+
 - [JavaFX](https://gluonhq.com/products/javafx/) v19.0.2.1
+
+Wie man Window Builder Current in Eclipse installiert:
+
+1. Eclipse öffnen
+2. Öffne die Optionen eines Projektes per Rechtsklick auf das gewünschte Projekt 
+3. Klicke aud **Properties**
+4. Unter dem **Java Build Path** im Menü links, sieht man nun die Libraries
+5. Klicke auf **Add Library**, wähle **User Library** aus und klicke auf **Next**
+6. Klicke auf **User Libraries** und erstelle eine neue Bibliothek, indem man aud **New** klickt
+7. Gebe der Bibliothek einen Namen
+8. Klicke nun auf **Add External JARs**  und wähle im Windows Explorer unter **javafx-sdk-19.0.2.1** **>**  **lib** alle JAR-Dateien aus
+9. Füge alle JAR-Dateien des **JavaFX SDKs** in die neue Bibliothek ein, indem man im Windows Explorer auf **Öffnen** Klickt
+10. 
+
 
 ---
