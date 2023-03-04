@@ -30,7 +30,7 @@ Name | Begründung
 Wie man ein Projekt in Eclipse importiert:
 
 1. Eclipse öffnen
-2. Klicke auf **File** **>** **Open Projects form File System**
+2. Klicke auf **File** **>** **Open Projects from File System**
 3. Füge den Dateipfade des Projektes unter **Import source** ein und klicke auf **Finish**
 4. Nun wird das importierte Projekt links im Package Explorer unter dem Namen **ProjectCsvVerarbeitung** angezeigt
 
