@@ -59,7 +59,7 @@ Wie man Window Builder Current in Eclipse installiert:
 
 - [JavaFX](https://gluonhq.com/products/javafx/) v19.0.2.1
 
-Wie man Window Builder Current in Eclipse installiert:
+Wie man JavaFX in Eclipse importiert:
 
 1. Eclipse öffnen
 2. Öffne die Optionen eines Projektes per Rechtsklick auf das gewünschte Projekt 
@@ -70,7 +70,13 @@ Wie man Window Builder Current in Eclipse installiert:
 7. Gebe der Bibliothek einen Namen
 8. Klicke nun auf **Add External JARs**  und wähle im Windows Explorer unter **javafx-sdk-19.0.2.1** **>**  **lib** alle JAR-Dateien aus
 9. Füge alle JAR-Dateien des **JavaFX SDKs** in die neue Bibliothek ein, indem man im Windows Explorer auf **Öffnen** Klickt
-10. 
+10. Klicke auf **Apply and Close**
+11. Bestätige nun im Fenster **User Library** den import der Bibliothek, indem man in das **Kästchen** klickt
+12. Klicke auf **Finish**
+13. Klicke auf **Apply and Close**
+14. Nun befindet sich JavaFX als Bibliothek in dem gewünschten Projekt. Damit JavaFX schlussendlich vollständig funktioniert, muss der Dateipfad von JavaFX noch in den Run Configurations gespeichert werden
+16. Füge **"--module-path "YOUR-PATH-HERE" --add-modules javafx.controls,javafx.fxml"** in **VM arguments** unter **Run** **>**  **Run Configurations** **>** **Arguments** ein
+17. Klicke auf **Apply** und dann auf **Close**
 
 
 ---
