@@ -40,6 +40,7 @@ Wie man ein Projekt in Eclipse ausführt:
 2. Klicke auf den Pfeil unter **ProjectCsvVerarbeitung** **>** **src** **>** **pkgProjectCsvVerarbeitung**
 3. Nun werden alle Java-Dateien angezeigt, die sich im Projekt befinden
 4. Öffne AnwendungGUI.java per Doppelklick und führe es mit dem ersten grünen, runden Knopf neben dem Käfersymbol aus
+5. Nun öffnet sich eine **graphische Benutzeroberfläche** mit dem Titel **"CSV-Verarbeitung und Aufbereitungsanwendung"**
 
 ![Eclipse - Run Button](https://i.stack.imgur.com/z72yJ.png/)
 
