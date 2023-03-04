@@ -8,6 +8,8 @@ Folgende Technologien und Frameworks habe ich in meinem Projekt eingesetzt:
 
 Ich habe mich für Java entschieden, weil ich mit dieser Programmiersprache die meiste Erfahrung gesammelt habe und somit diese auch am besten behersche. Zudem werden mir innerhalb der IDE Eclipse, welche ich zum Programmieren der Aufgabe genutzt habe, jegliche Java-Methoden von jeglichen Java-Bibliotheken sowie verschieden Werkzeuge vom dortigen Marketplace zur Verfügung gestellt, somit ist meine Arbeitsweise in Java effizienter und einfacher.
 
+Über den Window Builder war es mir möglich, innerhalb einer Design-Seite jegliche Elemente einer graphischen Benutzeroberfläche auf dem automatisch erstellten JFrame hinzuzufügen und diese ebenfalls zu benennen sowie platzieren, wie es mir am besten passt. Der Code der jeweiligen Elemente wurde, nach dem Speichern der Änderungen, automatisch an diese angepasst. Somit konnte ich einfach und effizient eine strukturierte GUI erstellen. Aus diesen Gründen habe ich mich auch für den Window Builder entschieden.
+
 ## Eingesetzte 3rd Party Libraries
 
 Ich habe keine 3rd Party Libraries in meinem Projekt genutzt, da bestimmte Libraries, wie zum Beispiel Java.io, Java.awt, Java.swing und JavaFX, von Oracle selbst mit java ausgeliefert werden und somit ein Gesamtpaket bieten, mit welchem sich die Probeaufgabe gut bearbeiten und lösen lässt. 
